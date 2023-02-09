@@ -1,0 +1,10 @@
+.banner_div {
+  display: flex;
+  justify-content: center;
+  padding: 10px 0px;
+  background-image: url("../public/bannerHome.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  align-items: center;
+}
